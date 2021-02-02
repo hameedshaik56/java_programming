@@ -1,6 +1,6 @@
 package linearsearch;
 
-public class array {
+public class linearsearch {
 	public static int arr(int[]a ,int key) {
 		for(int i=0;i<a.length;i++) {
 			if(a[i]==key) {
