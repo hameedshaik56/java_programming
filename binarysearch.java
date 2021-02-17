@@ -8,7 +8,7 @@ public class binarysearch {
 				f=mid+1;
 			}
 			else if (a[mid]==key) {
-				System.out.println("element found at "+mid);
+				System.out.println("element found at "+(mid+1));
 				break;
 			}
 			else {
